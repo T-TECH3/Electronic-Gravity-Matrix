@@ -21,6 +21,7 @@ The Electronic Gravity Matrix is an embedded systems project that simulates real
 
 3D Printed Parts:
 - Elegoo UNO R3 Case (1x) ([Print](https://www.thingiverse.com/thing:628929))
+- Momentary Button with Male Connection Case (1x) ([Print](https://www.thingiverse.com/thing:7379258))
 
 ## Wiring Diagram
 
